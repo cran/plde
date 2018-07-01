@@ -1,0 +1,15 @@
+53c041bcd08ba34d09efcf3c4d03f83d *DESCRIPTION
+8b54e5a89fbda3af5e077053d40bec76 *NAMESPACE
+419948cd87264dd31e5787609f347f24 *R/PLDE.R
+0b3821734df48cee49104b840632e680 *man/basic_values.Rd
+8584df0dc21efb3c87276a0051193589 *man/compute_fitted.Rd
+bb6bb60eafb159a7cf279c9d625ecfba *man/compute_lambdas.Rd
+1b17ab1ca8a9d4bf5f52c721cd2aa398 *man/fit_plde.Rd
+86e6a3cb2862da65ce5947c5b3d6ce90 *man/fit_plde_sub.Rd
+437a3c9bca0490bd146ee57427f4369e *man/legendre_polynomial.Rd
+76b9c5a48b8114f015697ce7008efc1c *man/min_q_lambda.Rd
+dd426fd12420d4fddf862427eb3ecb40 *man/model_selection.Rd
+1b595ed47ddd20ffb49a8b39d4baea36 *man/plde.Rd
+d1e08995d41b270aa434b4162a0c464f *man/q_lambda.Rd
+b2203faedc2d14c1255d562065c108bf *man/soft_thresholding.Rd
+0d39ef7ef83bb4fc646ccaf1544d0b61 *man/update.Rd
